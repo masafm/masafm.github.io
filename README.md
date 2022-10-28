@@ -1,2 +1,2 @@
 # masafm.github.io
-* [Wordpress][https://wp.mkashi.com]
+* [Wordpress](https://wp.mkashi.com)
